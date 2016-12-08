@@ -1,0 +1,11 @@
+
+
+(define mypi 3.1416)
+(define radius 10)
+(define area (* mypi (square radius)))
+
+mypi
+radius
+area
+
+

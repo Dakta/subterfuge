@@ -1,0 +1,8 @@
+(define a 6)
+(define b 17)
+(define c 5)
+
+(define discr  (- (square b) (* 4 (* a c))))
+(/  (+ (- 0 b) (sqrt discr))  (* 2 a))
+(/  (- (- 0 b) (sqrt discr))  (* 2 a))
+
